@@ -4,7 +4,7 @@
 - Let's bring the streaming magic to life! ✨🎥
 
 
-https://github.com/JavascriptDon/Javascript-Fundamentals/assets/101202952/c76815c0-788c-4891-8c9e-79b5ec98ee21
+https://github.com/JavascriptDon/Codeflix/assets/101202952/d44f940a-d580-4214-852a-c07c3f24f540
 
 
 ## 👇 Prerequisites
@@ -29,7 +29,7 @@ npm -v
 
 ## 👨‍💻 Credit
 
-[Code Commerce](https://www.youtube.com/watch?v=ATz8wg6sg30)
+[Code Commerce](https://www.youtube.com/watch?v=ATz8wg6sg30) 
 
 ## FAQ
 
